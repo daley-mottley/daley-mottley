@@ -8,6 +8,6 @@
      <li>- 💬 Ask me about <strong>Workflow Automations</strong></span></li>     
      <li>- 🌱 I’m currently learning <strong>Machine Learning</strong></li>
      <li>- 📫 How to reach me:  [daley.mottley@hotmail.com]</li>
-     <li>- 🧑‍💻 <a href="https://ai-ready.daleymottley.com/#/?utm_source=github&utm_medium=profile-page">Click here to get early access to my latest project </a></li>
+     <li>- 🧑‍💻 <a href="https://ai-ready.daleymottley.com/#/?utm_source=github&utm_medium=profile-page">Click here to get early access to my latest projects</a></li>
    </ul>
   </div>
